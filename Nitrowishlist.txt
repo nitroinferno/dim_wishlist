@@ -1,7 +1,6 @@
+title:Nitro's Destiny 2 DIM Wishlist Season 12
 
-Title:Nitro's Destiny 2 DIM Wishlist Season 12
-
-Description:This is my first attempt at creating a Destiny 2 wishlist using expert formatting for use with DIM (Destiny Item Manager). So far I've only made Xenoclast rolls.
+description:This is my first attempt at creating a Destiny 2 wishlist using expert formatting for use with DIM (Destiny Item Manager). So far I've only made Xenoclast rolls.
 
 //notes:NITRO Xenoclast Picks
 dimwishlist:item=2891672170&perks=1482024992,791862061,1556840489,2679249093
