@@ -1,4 +1,4 @@
-title:Nitro's Destiny 2 DIM Wishlist Season 12
+title:Nitro's Destiny 2 DIM Wishlist Season 15
 
 description:This is my first attempt at creating a Destiny 2 wishlist using expert formatting for use with DIM (Destiny Item Manager).
 
@@ -208,5 +208,5 @@ dimwishlist:item=20935540&perks=1392496348,106909392,1820235745,2848615171
 dimwishlist:item=20935540&perks=1482024992,106909392,1820235745,2848615171
 dimwishlist:item=20935540&perks=3661387068,106909392,1820235745,2848615171
 
-// My Current Roll
+// NITRO:My Current Roll
 dimwishlist:item=20935540&perks=3661387068,106909392,3513791699,2848615171#notes:Current Best Roll
