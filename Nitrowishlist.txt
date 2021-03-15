@@ -252,6 +252,6 @@ dimwishlist:item=1046651176&perks=1840239774,106909392,1168162263,3425386926
 dimwishlist:item=1046651176&perks=1840239774,106909392,247725512,3425386926
 
 //notes:Excluded Pulse Monitor
-dimwishlist:item=-69420&perks:=-972757866
+dimwishlist:item=-69420&perks:=972757866&#notes:TRASH
 
 
