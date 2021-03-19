@@ -209,9 +209,9 @@ dimwishlist:item=20935540&perks=1482024992,106909392,1820235745,2848615171
 dimwishlist:item=20935540&perks=3661387068,106909392,1820235745,2848615171
 
 // NITRO:My Current Roll
-//dimwishlist:item=20935540&perks=3661387068,106909392,3513791699,2848615171#notes:Nitro:Current Best Roll
+dimwishlist:item=20935540&perks=3661387068,106909392,3513791699,2848615171#notes:Nitro:Current Best Roll
 //dimwishlist:item=20935540&perks=3661387068,106909392,3337692349,2848615171#notes:Nitro:Current best(hash2)
-dimwishlist:item=20935540&perks=3513791699#notes:Nitro:JustMulligan
+//dimwishlist:item=20935540&perks=3513791699#notes:Nitro:JustMulligan
 
 // Talons of the Eagle
 //notes:NITRO (PvE/Controller): Talons of the Eagle picks|tags:PvE,Controller
