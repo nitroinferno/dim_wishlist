@@ -262,6 +262,6 @@ dimwishlist:item=235827225&perks=1926090092,1968497646,2846385770,588594999
 dimwishlist:item=235827225&perks=1926090095,1968497646,2846385770,588594999
 
 //Eyasluna
-//notes:NITRO backup roll (PvP/Controller): Eyasluna Controller bsckup picks|tags:PvP,Controller
+//notes:NITRO backup roll (PvP/Controller): Eyasluna Controller backup picks|tags:PvP,Controller
 dimwishlist:item=235827225&perks=1926090095,1087426260,2846385770,588594999
 
