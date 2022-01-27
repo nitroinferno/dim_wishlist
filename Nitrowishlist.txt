@@ -1,4 +1,4 @@
-title:Nitro's Destiny 2 DIM Wishlist Season 13
+title:Nitro's Destiny 2 DIM Wishlist Picks
 
 description:This is my first attempt at creating a Destiny 2 wishlist using expert formatting for use with DIM (Destiny Item Manager).
 
